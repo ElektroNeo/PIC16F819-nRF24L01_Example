@@ -5,14 +5,14 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date "2019-05-02"
-Rev ""
+Title "nRF24L01 Communication - Transmitter"
+Date "2019-05-14"
+Rev "v1.0"
 Comp ""
-Comment1 ""
-Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment1 "Designer: Bahtiyar Bayram"
+Comment2 "https://creativecommons.org/licenses/by-sa/4.0/"
+Comment3 "Attribution-ShareAlike 4.0 International"
+Comment4 "Released under the Creative Commons"
 $EndDescr
 $Comp
 L MCU_Microchip_PIC16:PIC16F819-IP U3
